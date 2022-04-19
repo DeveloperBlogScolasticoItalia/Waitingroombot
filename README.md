@@ -1,6 +1,6 @@
 # Discord-Js-Handler-Template
 
-For the bot: https://discord.gg/9Fubbkp7
+<ul> For the bot: https://discord.gg/9Fubbkp7 </ul>
 
 ### The support for github is closed
 The support for this pls
