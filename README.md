@@ -2,8 +2,11 @@
 
 For the bot: https://discord.gg/9Fubbkp7
 
-## Support Us
-The developer use: https://www.glitch.com for host
 ### The support for github is closed
 The support for this pls
 ## join: https://discord.gg/9Fubbkp7
+For support us
+
+
+# The bot is hosted on our server
+<li> Brain Host is our server for host all </li>
